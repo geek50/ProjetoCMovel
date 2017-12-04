@@ -22,7 +22,8 @@
         <activity android:name=".Tela_Endereco" />
         <activity android:name=".Tela_Login" />
         <activity android:name=".Tela_Carrinho" />
-        <activity android:name=".Tela_Catalogo"></activity>
+        <activity android:name=".Tela_Catalogo" />
+        <activity android:name=".Tela_Cadastro"></activity>
     </application>
 
 </manifest>
