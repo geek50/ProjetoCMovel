@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Breaktasty</string>
+    <string name="Start">Início</string>
+    <string name="title_activity_tela_inicio">TelaInicio</string>
+    <string name="PaymentType">Forma de Pagamento</string>
+    <string name="credit_card">Cartão de Crédito</string>
+    <string name="bank_slip">Boleto Bancário</string>
+    <string name="debit_card">Cartão de Débito</string>
+    <string name="Breaktasty">Breaktasty</string>
+    <string name="Name">Nome</string>
+    <string name="Last_Name">Sobrenome</string>
+    <string name="password">Digite a senha</string>
+    <string name="Forgot_Password">Esqueci minha senha</string>
+    <string name="New_Account">Nova Conta</string>
+    <string name="Login">Login</string>
+    <string name="Start_Session">Iniciar Sessão</string>
+    <string name="action_settings">Configurações</string>
+</resources>
