@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".TelaInicio" />
+        <activity android:name=".activity_listview" />
+        <activity android:name=".FormaPagamento" />
+        <activity android:name=".Tela_Endereco" />
+        <activity android:name=".Tela_Login" />
+        <activity android:name=".Tela_Carrinho" />
+        <activity android:name=".Tela_Catalogo"></activity>
     </application>
 
 </manifest>
