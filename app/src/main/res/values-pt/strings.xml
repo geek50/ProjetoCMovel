@@ -5,7 +5,11 @@
     <string name="title_activity_tela_inicio">TelaInicio</string>
     <string name="PaymentType">Forma de Pagamento</string>
     <string name="credit_card">Cartão de Crédito</string>
+<<<<<<< HEAD
     <string name="bank_slip">Boleto Bancário</string>
+=======
+    <string name="money">Boleto Bancário</string>
+>>>>>>> origin/master
     <string name="debit_card">Cartão de Débito</string>
     <string name="Breaktasty">Breaktasty</string>
     <string name="Name">Nome</string>

@@ -1,18 +1,27 @@
 package com.example.lucasmachado.projetocmovel;
 
+<<<<<<< HEAD
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
+=======
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.widget.ArrayAdapter;
+>>>>>>> origin/master
 import android.widget.ListView;
 
 public class TelaInicio extends AppCompatActivity {
 
+<<<<<<< HEAD
     private ImageView botaoCatalogo;
     private ImageView botaoPayment;
 
+=======
+>>>>>>> origin/master
     String[] teste = {"teste1","teste2"};
 
     @Override
@@ -25,6 +34,7 @@ public class TelaInicio extends AppCompatActivity {
         ListView listView = (ListView)findViewById(R.id.text_list_view);
         listView.setAdapter(adapter);﻿*/
 
+<<<<<<< HEAD
         botaoCatalogo = (ImageView) findViewById(R.id.catalogoId);
         botaoPayment = (ImageView) findViewById(R.id.PaymentId);
 
@@ -43,5 +53,7 @@ public class TelaInicio extends AppCompatActivity {
             }
         });
 
+=======
+>>>>>>> origin/master
     }
 }
