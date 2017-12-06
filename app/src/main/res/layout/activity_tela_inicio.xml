@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#98FB98"
     tools:context="com.example.lucasmachado.projetocmovel.TelaInicio">
 
     <TextView
@@ -15,6 +16,8 @@
         android:layout_marginTop="4dp"
         android:fontFamily="casual"
         android:text="@string/Breaktasty"
+        android:textAllCaps="false"
+        android:textColor="#000000"
         android:textSize="60sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.507"
@@ -40,7 +43,7 @@
         android:layout_marginTop="8dp"
         android:fontFamily="cursive"
         android:text="Menu"
-        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textColor="#000000"
         android:textSize="22sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/catalogoId"
@@ -67,7 +70,7 @@
         android:layout_marginTop="8dp"
         android:fontFamily="cursive"
         android:text="Payment Type"
-        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textColor="#000000"
         android:textSize="22sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="@+id/PaymentId"

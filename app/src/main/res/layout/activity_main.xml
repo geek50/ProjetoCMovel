@@ -48,6 +48,7 @@
         android:layout_marginTop="48dp"
         android:fontFamily="casual"
         android:text="@string/Breaktasty"
+        android:textColor="#000000"
         android:textSize="60sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
